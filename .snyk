@@ -8,3 +8,8 @@ patch:
         patched: '2025-11-05T17:23:31.936Z'
         id: 'npm:minimatch:20160620'
         path: dustjs-linkedin > cli > glob > minimatch
+  SNYK-JS-LODASH-567746:
+    - mongoose > async > lodash:
+        patched: '2025-11-05T17:30:33.709Z'
+        id: SNYK-JS-LODASH-567746
+        path: mongoose > async > lodash
